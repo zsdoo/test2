@@ -1,4 +1,0 @@
-Creating a new branch is quick AND simple.
-add merge
-the second
-git is a free software
